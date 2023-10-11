@@ -1,4 +1,5 @@
 # SNVis
+![vis](visflow.png)
 This repository is for the project "Spectral Network Visualizer" and related resource.
 <br><br>
 You can download spectral network vizualizer (docker container to visualize spectral network) 
