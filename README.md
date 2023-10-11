@@ -2,7 +2,9 @@
 ![vis](visflow.png)
 This repository is for the project "Spectral Network Visualizer" and related resource.
 <br>
-[simple tutorial (Japanese))](tutorial20230925.pdf)
+
+
+[simple tutorial (Japanese)](tutorial20230925.pdf)
 
 <br>
 You can download spectral network vizualizer (docker container to visualize spectral network) 
