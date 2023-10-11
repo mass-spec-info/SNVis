@@ -6,6 +6,6 @@ from the dedicated repository [here](https://github.com/kanakohirata/spectral-ne
 <br>
 <br>
 For processing task to create a source data of mass spectral molecular network, you have two options. <br>
-1: Use the dedicated script ["spectral network generator"] (https://github.com/kanakohirata/spectral-network-generator)
+1(RECOMMENDED): Use the dedicated script ["spectral network generator"] (https://github.com/kanakohirata/spectral-network-generator)<br>
 2: Use MS data analysis software capable of processing spectral simliarity, (such as MS-DIAL) and edit the edge and node list so they are compatible with Spectral Network Visualizer
 
