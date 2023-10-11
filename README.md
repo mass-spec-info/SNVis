@@ -1,6 +1,11 @@
 # SNVis
-This repository is for the project "spectral network visualizer" and related resource.<br>
+This repository is for the project "Spectral Network Visualizer" and related resource.
+<br><br>
 You can download spectral network vizualizer (docker container to visualize spectral network) 
 from the dedicated repository [here](https://github.com/kanakohirata/spectral-network-visualizer)
 <br>
+<br>
+For processing task to create a source data of mass spectral molecular network, you have two options. <br>
+1: Use the dedicated script ["spectral network generator"] (https://github.com/kanakohirata/spectral-network-generator)
+2: Use MS data analysis software capable of processing spectral simliarity, (such as MS-DIAL) and edit the edge and node list so they are compatible with Spectral Network Visualizer
 
